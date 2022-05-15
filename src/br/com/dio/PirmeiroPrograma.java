@@ -8,7 +8,7 @@ public class PirmeiroPrograma {
 		
 		Gato gato = new Gato();
 		
-		int a = 3;
+		int a = 5;
 		int b = 5;
 		System.out.println("Olá Mundo!" + (a + b) + gato.toString());
 	}
